@@ -90,7 +90,7 @@ spec:
       kubernetes.io/ingress.class: nginx
   spec:
     rules:
-    - host: www.worker.com
+    - host: worker.biqueirabr.com.br
       http:
         paths:
           - path: /
